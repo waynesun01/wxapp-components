@@ -7,9 +7,9 @@
 "usingComponents": {
     "wxapp-marquee": "/component/marquee/marquee"
   }
-```js
-- index.html
 ```
+- index.html
+```js
    <wxapp-marquee text="{{roomnotice}}"></wxapp-marquee>
 ```
    
